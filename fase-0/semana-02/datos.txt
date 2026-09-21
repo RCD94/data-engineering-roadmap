@@ -1,0 +1,4 @@
+Teclado,25
+Ratón,15
+Monitor,150
+Webcam,80
