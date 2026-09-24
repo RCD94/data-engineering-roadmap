@@ -1,0 +1,14 @@
+RESUMEN DE VENTAS
+=================
+Ventas analizadas: 4
+Ingresos totales: 770€
+Precio medio: 67.50€
+
+Producto con mayores ingresos:
+Webcam
+
+Ingresos: 320€
+
+Productos con ingresos superiores a 100€:
+Monitor -> 300€
+Webcam -> 320€
